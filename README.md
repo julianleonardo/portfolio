@@ -18,6 +18,8 @@ An explanation of work and credentials as a student at Epicodus
 
 * Clone this repository to your desktop
 * https://github.com/julianleonardo/portfolio.git
+* Navigate to the top level of the directory to open remotely 
+* OR click this URL to see it in your browser: https://julianleonardo.github.io/portfolio/
 
 ## Known Bugs
 
